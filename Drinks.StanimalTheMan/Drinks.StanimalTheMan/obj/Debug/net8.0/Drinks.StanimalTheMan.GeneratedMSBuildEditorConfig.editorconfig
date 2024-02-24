@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Drinks.StanimalTheMan
-build_property.ProjectDir = C:\Stanimal\CodeReviews.Console.Drinks\Drinks.StanimalTheMan\Drinks.StanimalTheMan\
+build_property.ProjectDir = C:\Stanimal\CSharpAcademy.StanimalTheMan\Drinks.StanimalTheMan\Drinks.StanimalTheMan\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

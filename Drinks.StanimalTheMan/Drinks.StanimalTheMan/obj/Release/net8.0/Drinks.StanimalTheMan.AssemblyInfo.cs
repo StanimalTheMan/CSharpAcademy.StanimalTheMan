@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Drinks.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30bec4b20a9b0eaa8ad0dc90559857fb3743b1b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd381dfc7fbd887f2d085d63fe7c517f2f3c9770")]
 [assembly: System.Reflection.AssemblyProductAttribute("Drinks.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Drinks.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

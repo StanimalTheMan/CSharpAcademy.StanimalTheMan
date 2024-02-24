@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StanChoi.CodingTracker.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e86f67ee8a97ec8c43b555c12fe7b1456ce00bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd381dfc7fbd887f2d085d63fe7c517f2f3c9770")]
 [assembly: System.Reflection.AssemblyProductAttribute("StanChoi.CodingTracker.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StanChoi.CodingTracker.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

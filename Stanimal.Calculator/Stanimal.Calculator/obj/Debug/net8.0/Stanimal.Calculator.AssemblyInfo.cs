@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stanimal.Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb681699151780df3d10c80124b759eb27ebe7c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd381dfc7fbd887f2d085d63fe7c517f2f3c9770")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stanimal.Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stanimal.Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

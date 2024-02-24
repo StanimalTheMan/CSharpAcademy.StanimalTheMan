@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flashcards.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd381dfc7fbd887f2d085d63fe7c517f2f3c9770")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flashcards.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flashcards.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

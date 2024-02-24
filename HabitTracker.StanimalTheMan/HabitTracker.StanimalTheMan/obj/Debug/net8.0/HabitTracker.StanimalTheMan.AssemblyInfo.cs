@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HabitTracker.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2871430c1e23368b37bd1625ef0888ec0bd608ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd381dfc7fbd887f2d085d63fe7c517f2f3c9770")]
 [assembly: System.Reflection.AssemblyProductAttribute("HabitTracker.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HabitTracker.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

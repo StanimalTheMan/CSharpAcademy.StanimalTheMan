@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathGame.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d13bf93402e560cef19a031e77df0bd8bdf8d8c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd381dfc7fbd887f2d085d63fe7c517f2f3c9770")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathGame.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathGame.StanimalTheMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
