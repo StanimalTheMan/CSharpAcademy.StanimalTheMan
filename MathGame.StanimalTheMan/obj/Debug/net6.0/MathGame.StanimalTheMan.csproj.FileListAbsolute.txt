@@ -1,0 +1,15 @@
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.AssemblyInfoInputs.cache
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.AssemblyInfo.cs
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.csproj.CoreCompileInputs.cache
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.sourcelink.json
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\bin\Debug\net6.0\MathGame.StanimalTheMan.exe
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\bin\Debug\net6.0\MathGame.StanimalTheMan.deps.json
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\bin\Debug\net6.0\MathGame.StanimalTheMan.runtimeconfig.json
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\bin\Debug\net6.0\MathGame.StanimalTheMan.dll
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\bin\Debug\net6.0\MathGame.StanimalTheMan.pdb
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.dll
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\refint\MathGame.StanimalTheMan.dll
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.pdb
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\MathGame.StanimalTheMan.genruntimeconfig.cache
+C:\Stanimal\CodeReviews.Console.MathGame\MathGame.StanimalTheMan\obj\Debug\net6.0\ref\MathGame.StanimalTheMan.dll

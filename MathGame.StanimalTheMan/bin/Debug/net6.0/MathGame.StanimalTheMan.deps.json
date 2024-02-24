@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MathGame.StanimalTheMan/1.0.0": {
+        "runtime": {
+          "MathGame.StanimalTheMan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathGame.StanimalTheMan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

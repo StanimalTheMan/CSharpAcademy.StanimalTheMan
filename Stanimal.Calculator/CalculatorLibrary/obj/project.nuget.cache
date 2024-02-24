@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFLrEMdVHRumR8yO/mm0lNCHPIUw6Mgn/2ppGXdyZMEcXyKHwM8BQwAv3rgtmVnqdbrHl0rIXKzbCnI6ufcFhA==",
+  "success": true,
+  "projectFilePath": "C:\\Stanimal\\CodeReviews.Console.Calculator\\Stanimal.Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\choij\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

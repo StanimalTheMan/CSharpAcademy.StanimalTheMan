@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Stanimal\\CodeReviews.Console.ShiftsLogger\\ShiftsLogger.StanimalTheMan\\ShiftsLogger.StanimalTheMan\\ShiftsLoggerWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Stanimal\\CodeReviews.Console.ShiftsLogger\\ShiftsLogger.StanimalTheMan\\ShiftsLogger.StanimalTheMan\\ShiftsLoggerWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Stanimal\\CodeReviews.Console.ShiftsLogger\\ShiftsLogger.StanimalTheMan\\ShiftsLogger.StanimalTheMan\\ShiftsLoggerWebAPI.csproj",
+        "projectName": "ShiftsLoggerWebAPI",
+        "projectPath": "C:\\Stanimal\\CodeReviews.Console.ShiftsLogger\\ShiftsLogger.StanimalTheMan\\ShiftsLogger.StanimalTheMan\\ShiftsLoggerWebAPI.csproj",
+        "packagesPath": "C:\\Users\\choij\\.nuget\\packages\\",
+        "outputPath": "C:\\Stanimal\\CodeReviews.Console.ShiftsLogger\\ShiftsLogger.StanimalTheMan\\ShiftsLogger.StanimalTheMan\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\choij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

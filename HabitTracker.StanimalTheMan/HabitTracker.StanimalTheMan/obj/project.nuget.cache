@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5JCZAmqzepuz/XqS5gd9E06OcnFCZamq2/17wLZu7PeiHEBw+StuBlWG0zpJ+n1DLzjf/+WE6Tvpza/3SHRkg==",
+  "success": true,
+  "projectFilePath": "C:\\Stanimal\\CodeReviews.Console.HabitTracker\\HabitTracker.StanimalTheMan\\HabitTracker.StanimalTheMan\\HabitTracker.StanimalTheMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\choij\\.nuget\\packages\\microsoft.data.sqlite\\8.0.1\\microsoft.data.sqlite.8.0.1.nupkg.sha512",
+    "C:\\Users\\choij\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.1\\microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
+    "C:\\Users\\choij\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\choij\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\choij\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\choij\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\choij\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
