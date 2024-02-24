@@ -1,0 +1,2 @@
+# C#/.NET/ASP.NET Core Project Based Learning
+Following the roadmap as found in https://www.thecsharpacademy.com, I am learning C# / .NET / ASP.NET Core via project based learning and code reviews.  I am currently also working on an ecommerce web app to display baseball products.
