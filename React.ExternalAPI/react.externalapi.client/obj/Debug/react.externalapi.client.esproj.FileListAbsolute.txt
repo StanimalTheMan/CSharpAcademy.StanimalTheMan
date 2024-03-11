@@ -1,0 +1,2 @@
+C:\Stanimal\React.ExternalAPI\react.externalapi.client\obj\Debug\react.externalapi.client.esproj.CoreCompileInputs.cache
+C:\Stanimal\CodeReviews.React.ExternalAPI\React.ExternalAPI\react.externalapi.client\obj\Debug\react.externalapi.client.esproj.CoreCompileInputs.cache
